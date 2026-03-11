@@ -1,0 +1,5 @@
+{
+  "name": "McDelivery Assistant",
+  "description": "A helpful chatbot for McDonald's India (McDelivery) customers, providing information about the menu, offers, and delivery.",
+  "requestFramePermissions": []
+}
